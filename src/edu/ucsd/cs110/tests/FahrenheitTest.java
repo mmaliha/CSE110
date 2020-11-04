@@ -1,7 +1,7 @@
 package edu.ucsd.cs110.tests;
+
 import edu.ucsd.cs110.temperature.Fahrenheit;
 import edu.ucsd.cs110.temperature.Temperature;
-import static org.junit.jupiter.api.Assertions.*;
 import junit.framework.TestCase;
 
 public class FahrenheitTest extends TestCase{
